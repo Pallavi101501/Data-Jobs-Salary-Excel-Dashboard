@@ -18,4 +18,30 @@ The project was created to strengthen my Excel data visualization and dashboardi
 - **Salary Insights:** Compare median salaries for different job titles and countries.
 - **Job Market Overview:** Visualize job counts and analyze trends to identify high-demand roles.
 - **Used Fundamental Excel Features:** Built entirely with charts, conditional formatting, basic formulas and functions - no macros required.
-- **Skill Development:** Strengthened Excel analytics, data visualization and storytelling abilites
+- **Skill Development:** Strengthened Excel analytics, data visualization and storytelling abilites.
+
+## Tools & Skills Used
+
+- Skills Used
+  - Microsoft Excel
+  - Dashboard Design & Layout
+  - Conditional Formatting
+  - Data Cleaning & Formatting
+  - Basic Excel Functions (eg. XLOOKUP(), FILTER(), SORT())
+  - Slicers and Interactive Controls
+  - Protecting Cells and Spreadsheets
+
+- Excel Tools & Functions Used
+  - Data Validation
+  - Charts & Maps
+  - Protect Cells
+  - XLOOKUP()
+  - FILTER()
+  - SORT()
+  - UNIQUE()
+  - SEARCH()
+  - ISNUMBER()
+  - MEDIAN()
+  - SUBSTITUTE()
+  - COUNT()
+  
