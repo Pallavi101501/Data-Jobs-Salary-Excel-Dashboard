@@ -52,3 +52,29 @@ The project was created to strengthen my Excel data visualization and dashboardi
 - The demand for data professionals is rising worldwide, with notable opportunities in both established and emerging nations.
 
 ## How to Use the Dashboard
+
+1. **Download the File:** Click on the Excel File (.xlsx) in this repository and download it to your local system.
+2. **Open in Excel:** Launch Microsoft Excel (desktop version recommended for full functionality).
+3. **Enable Interactivity:** Make sure to enable editing and content when prompted by excel.
+4. **Use Slicers:** Apply filters for job title, country or job schedule type to explore specific insights.
+5. **View Key Metrics:** Check median salary, job count, online platform and role comparison visuals on the dashboard.
+6. **Analyze Trends:** Observe how data roles differ across countries like USA, India, Russia and Australia.
+7. **Draw Insights:** Identify which roles are in highest demand and how salaries vary across regions.
+
+## Dashboard Preview
+
+GIF
+
+## Future Enhancements
+
+- **Automation:** Integrate Power Query to automatically update data from external sources.
+- **Advanced Visualization:** Transition the dashboard to Power BI or Tableau for deeper analytical capabilities.
+- **Expanded Dataset:** Gather more data for countries and add more industries for broader insights.
+- **Year-over-Year Analysis:** Incorporate year-over-year comparisons to track salary growth and job demand trends over time.
+- **Insights Enrichment:** Include new metrics like average experience, qualification or industry segment to deepen the analysis.
+
+## Contact
+
+Hi, I'm Pallavi, a data enthusiast exploring Excel, SQL, and analytics tools.
+
+Feel free to connect with me on LinkedIn.
