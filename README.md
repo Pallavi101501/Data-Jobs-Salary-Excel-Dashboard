@@ -44,4 +44,11 @@ The project was created to strengthen my Excel data visualization and dashboardi
   - MEDIAN()
   - SUBSTITUTE()
   - COUNT()
-  
+
+## Insights & Findings
+
+- For Senior & Non-Senior roles, Data Scientists generally earn the highest median salaries followed by data engineer in nations like USA, India, Russia and Australia.
+- Data Analyst is the most in-demand role across all data related job categories, based on job count in the dataset.
+- The demand for data professionals is rising worldwide, with notable opportunities in both established and emerging nations.
+
+## How to Use the Dashboard
