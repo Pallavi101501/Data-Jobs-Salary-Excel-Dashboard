@@ -63,7 +63,7 @@ The project was created to strengthen my Excel data visualization and dashboardi
 
 ## Dashboard Preview
 
-![Excel Dashboard Demo]()
+![Excel Dashboard Demo](images/EXCEL_1Kdl9p2jd1.gif)
 
 ## Future Enhancements
 
