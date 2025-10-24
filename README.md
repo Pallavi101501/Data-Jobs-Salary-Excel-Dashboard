@@ -10,4 +10,12 @@ It provides a detailed look at salary trends in data industry. It also explores 
 
 The Dashboard is fully interative, allowing filtering by job title, country and job schedule type (eg. full-time or part-time).
 
-This project was created to strengthen my Excel data visualization and dashboarding skills.
+The project was created to strengthen my Excel data visualization and dashboarding skills.
+
+## Key Features
+
+- **Interactive Dashboard:** Filter data by job title, location and job schedule type using Data Validation drop-down list.
+- **Salary Insights:** Compare median salaries for different job titles and countries.
+- **Job Market Overview:** Visualize job counts and analyze trends to identify high-demand roles.
+- **Used Fundamental Excel Features:** Built entirely with charts, conditional formatting, basic formulas and functions - no macros required.
+- **Skill Development:** Strengthened Excel analytics, data visualization and storytelling abilites
