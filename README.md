@@ -53,7 +53,7 @@ The project was created to strengthen my Excel data visualization and dashboardi
 
 ## How to Use the Dashboard
 
-1. **Download the File:** Click on the Excel File (.xlsx) in this repository and download it to your local system.
+1. **Download the File:** Click on the Excel File (.xlsx) in this repository and download it to your local system or you can download it from the link below.
 2. **Open in Excel:** Launch Microsoft Excel (desktop version recommended for full functionality).
 3. **Enable Interactivity:** Make sure to enable editing and content when prompted by excel.
 4. **Use Slicers:** Apply filters for job title, country or job schedule type to explore specific insights.
@@ -78,3 +78,13 @@ The project was created to strengthen my Excel data visualization and dashboardi
 Hi, I'm Pallavi, a data enthusiast exploring Excel, SQL, and analytics tools.
 
 Feel free to connect with me on LinkedIn.
+
+<h2 align="center"> Download the Dashboard</h2>
+
+<p align="center"> you can explore the interactive Excel dashboard used in this project by downloading the file below: </p>
+
+<p align="center">
+<a href="Data_Jobs_Salary_Dashboard.xlsx" download>
+<img src="https://img.shields.io/badge/Download%20Excel%20Dashboard-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Download Excel Dashboard">
+  </a>
+</p>
