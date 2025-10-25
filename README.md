@@ -12,6 +12,10 @@ The Dashboard is fully interative, allowing filtering by job title, country and 
 
 The project was created to strengthen my Excel data visualization and dashboarding skills.
 
+## Dashboard Preview
+
+![Excel Dashboard Demo](images/EXCEL_1Kdl9p2jd1.gif)
+
 ## Key Features
 
 - **Interactive Dashboard:** Filter data by job title, location and job schedule type using Data Validation drop-down list.
@@ -61,10 +65,6 @@ The project was created to strengthen my Excel data visualization and dashboardi
 6. **Analyze Trends:** Observe how data roles differ across countries like USA, India, Russia and Australia.
 7. **Draw Insights:** Identify which roles are in highest demand and how salaries vary across regions.
 
-## Dashboard Preview
-
-![Excel Dashboard Demo](images/EXCEL_1Kdl9p2jd1.gif)
-
 ## Future Enhancements
 
 - **Automation:** Integrate Power Query to automatically update data from external sources.
@@ -72,6 +72,10 @@ The project was created to strengthen my Excel data visualization and dashboardi
 - **Expanded Dataset:** Gather more data for countries and add more industries for broader insights.
 - **Year-over-Year Analysis:** Incorporate year-over-year comparisons to track salary growth and job demand trends over time.
 - **Insights Enrichment:** Include new metrics like average experience, qualification or industry segment to deepen the analysis.
+
+## References / Credits
+
+Dataset provided by [Luke Barousse - Data Analytics YouTube Channel](https://www.youtube.com/@LukeBarousse)
 
 ## Contact
 
