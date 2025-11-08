@@ -75,7 +75,7 @@ The project was created to strengthen my Excel data visualization and dashboardi
 
 ## References / Credits
 
-Dataset provided by [Luke Barousse - Data Analytics YouTube Channel](https://www.youtube.com/@LukeBarousse)
+Dataset provided by [Luke Barousse](https://www.youtube.com/@LukeBarousse) - Data Analytics YouTube Channel
 
 ## Contact
 
